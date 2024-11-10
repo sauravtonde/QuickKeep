@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Source Sans 3", sans-serif;
+}
+
+:root {
+  --primary-bg: #141414;
+  --secondary-bg: #1A1A1A;
+  --primary-text: #FFFFFF;
+  --button-color: #703BF7;
+  --button-color-hover: #5718f5;
+  --border-color: #262626;
+}
+
+
+/* --button-color: #AD8B3A; */
+
+
